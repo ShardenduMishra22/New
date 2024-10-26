@@ -368,6 +368,7 @@ const App = () => {
     const handleProceed = () => {
       console.log('Target Column:', targetColumn);
       console.log('Features Column:', featuresColumn);
+      
     };
   
     return (
